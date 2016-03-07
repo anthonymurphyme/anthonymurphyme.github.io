@@ -17,6 +17,9 @@ n33.co @n33co dribbble.com/n33
 
 Credits:
 
+	Image:
+		Richare Winchell https://www.flickr.com/photos/richardwinchell/5791788104
+
 	Demo Images:
 		Unsplash (unsplash.com)
 
